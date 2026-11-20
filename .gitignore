@@ -1,0 +1,20 @@
+# Build
+[Bb]in/
+[Oo]bj/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rapport (non versionné)
+rapport/
+
+# Dossiers temporaires
+session-state/
+
+# OS
+Thumbs.db
+.DS_Store
